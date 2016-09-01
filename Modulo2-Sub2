@@ -36,6 +36,9 @@
 <p>•Crea una Tabla en Microsoft Excel en donde redactes la analogia que previamente escribiste en tu libreta; la tabla debera contener tres columnas. Numero, Computadora, Cuerpo Humano.</p>
 <p>•Imprime la tabla y pegala en tu cuaderno.</p>
 
+
+
+<!
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Designer Templates</h3>
 
@@ -64,7 +67,7 @@
         </aside>
       </div>
     </div>
-
+>
   
   </body>
 </html>
